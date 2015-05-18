@@ -1,5 +1,7 @@
 # scala-dci
 
+[ ![Codeship Status for KamilLelonek/scala-dci](https://codeship.com/projects/bb431580-dfb6-0132-ba4a-5a00e6f9bcb3/status?branch=master)](https://codeship.com/projects/80638)
+
 Data Context Interaction paradigm in Scala
 
 ## Development
