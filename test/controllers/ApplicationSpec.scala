@@ -1,11 +1,11 @@
-import org.specs2.mutable._
-import org.specs2.runner._
-import org.specs2.matcher._
+package controllers
 
 import org.junit.runner._
-
-import play.api.test._
+import org.specs2.matcher._
+import org.specs2.mutable._
+import org.specs2.runner._
 import play.api.test.Helpers._
+import play.api.test._
 
 @RunWith(classOf[JUnitRunner])
 class ApplicationSpec extends Specification with JsonMatchers {
