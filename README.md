@@ -1,7 +1,6 @@
 # play-framework-scala-seed
 
 ![](https://playframework.com/assets/images/logos/play_full_color.png)
-Play Framework Scala seed
 
 ## Development
 
@@ -35,6 +34,10 @@ You will find the packaged application in `./target/universal/stage directory`. 
 
 ## Deployment
 
-App is being deployed to heroku. Normally you don't have to deploy manually, because [codeship](https://codeship.com/) does it for you after successful build and tests.
+If you want to have the application deployed to Heroku you can use the following button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+To deploy the application anytime later run:
 
     ./scripts/deploy.sh
